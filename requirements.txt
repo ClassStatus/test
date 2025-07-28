@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+pandas
+python-multipart
+xlsxwriter
+apscheduler
+numpy
+Pillow
+pdf2image
+opencv-python
+requests
+paddlex[ocr]
+beautifulsoup4
+openpyxl
+PyPDF2
+paddleocr
